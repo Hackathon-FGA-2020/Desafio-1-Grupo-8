@@ -4,7 +4,7 @@
 ### Desafio - Informar é Previnir
 #### Grupo 8 (Gabriel, Anne Caroline, Lucas José, Kátia Araujo, João Pedro Riuto)
 
-![hackaton unb](master/images/logo.png)
+
 
 PROPOSTA:
 
