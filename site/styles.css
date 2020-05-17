@@ -59,8 +59,9 @@ body {
 }
 
 .navegs {
-    display: inline;
-    padding: 10px 0px 0px 0px;
+    display: inline-block;
+    top: 542px;
+    padding: 0px;
     position:fixed;
     
 }
@@ -74,10 +75,12 @@ body {
     border-bottom-right-radius: 25%;
     font-weight: 900;
     font-size: 20px;
+    color: rgb(213, 223, 238);
     
 }
 
 .navegs p:hover{
     background-color: rgb(98, 138, 224);
     color: rgb(154, 213, 236);
+    /* filter: brightness(90%); */
 }
