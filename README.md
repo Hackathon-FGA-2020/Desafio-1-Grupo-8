@@ -29,6 +29,3 @@ OBJETIVO:
 Administrativas os casos mapeados de COVID-19 e a infraestrutura de atendimento de saúde
 disponível por região.
 
- Grupo 1 – Informação e saúde;
-
-Gabriel, Anne Caroline, Lucas José, Kátia Araujo, João Pedro Riuto;
