@@ -3,6 +3,7 @@
 }
 body {
     margin: 0px;
+    background-color: lightblue;
 }
 .sticky {      
     color: #FFF;        
@@ -67,10 +68,11 @@ body {
 .conteudo {
     display:grid;
     grid-template-columns:2000px;
-    width: 86%;
+    max-width: 8650%;
     background-color:lightblue;
     margin-left: 14%;
     margin-top: -3px;
+    
     
 }
 
@@ -95,25 +97,28 @@ body {
     
 }
 
-.navegs p {
-   
-    padding: 0px 30px 0px 45px;
+.navegs p { 
+    
+    border-bottom-right-radius: 30%;
+    padding: 0px 24px 0px 45px;
     background-color: rgb(71, 114, 188);
     width: 100%;
     height: 55px;
-    border-bottom-right-radius: 25%;
     font-weight: 900;
-    font-size: 20px;
+    font-size: 1.4em;
+    text-align: center;
     color: rgb(213, 223, 238);
+    box-shadow: rebeccapurple 5px 5px;
     
 }
 
 .navegs p:hover{
     background-color: rgb(98, 138, 224);
     color: rgb(154, 213, 236);
-    /* filter: brightness(90%); */
+    box-shadow:slateblue 5px 5px;
 }
 
+/* Alinhar o conteúdo */
 .conteudo {
     display: grid;
     grid-template-columns: 800%;
@@ -121,7 +126,7 @@ body {
 }
 
 .caixa {
-    /* background-color:indigo;
-    padding: 100px;
-    max-width: 800px; */
+    padding: 1%;
+    max-width: 800px;
+    align-items: center;
 }
