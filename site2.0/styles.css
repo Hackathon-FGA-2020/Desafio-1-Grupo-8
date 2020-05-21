@@ -20,33 +20,39 @@ body {
 }
 
 .cabecalho {
-   height: 150px;
-   background-color: cornflowerblue;
+   height: 120px;
+   background-color: rgb(146, 184, 255);
    justify-content: flex-start;    
    border-bottom: 5px solid black;    
    
 }
 
 .logo{
-   height: 150px;
+    margin-top: -56px;
+   height: 220px;
    padding-left: 30px;
 }
 
 .naveg {
-    font-size: 2.0em;
-    padding-left: 200px;
-    margin-top: -100px;
+    font-size: 1.8em;
+    padding-left: 12%;
+    margin-top: -130px;
 }
 
 .naveg li {
     display: inline-flex;
-    padding-left: 35px;
     color: #fff;
+    margin-left: 20px;
+    padding: 5px;
+}
+.naveg li:hover {
+    background-color: cornflowerblue;
+    border-radius: 10%;
 }
 
 .autenticacao{
     float: right;
-    padding-top: 3%;
+    padding-top: 4%;
     padding-right: 2%;
 }
 
@@ -65,79 +71,70 @@ body {
 }
 
 .item {
-    margin-left: 15px;      
+    margin-left: 15px;          
     border-bottom-right-radius: 25%;
     border-bottom-left-radius: 25%;
     background-color: brown;
     padding: 5em 5vw;
-    align-self: stretch;    
+    box-shadow: 5px 5px rgb(92, 10, 10);
 
 }
 
+.item:hover {
+    filter:brightness(80%)
+}
+
 .conteudo {     
-    background-color:cadetblue;    
+    background-color:rgb(161, 212, 230);    
     height: 100vh;
     margin-top: 5px;
     margin-left: 12%;
     margin-right: 12%;
+    border-radius: 6%;
 }
 .lateral {
     position: fixed;    
-    max-width: 15em;
-    margin-top: 600px;
-    margin-left: 0px;
-    
+    width: 11%;
+    margin-top: 572px;
+    margin-left: 0px;    
+    padding-right:40px;
+
 }
 .lateral ul{    
     list-style-type: none;     
 }
 
 .lateral ul li {
-    background-color: rgb(112, 202, 231);    
+    background-color: cornflowerblue;    
     font-size: 1.5em;
-    
-    padding: 10px 8px;
+    text-align: center;
+    color:cornsilk;
+    padding: 5% 2%;
     margin-bottom: 14px;
     border-bottom-right-radius: 25%;
-    box-shadow: 5px 5px blueviolet;
+    box-shadow: 5px 5px rgb(107, 43, 226);
+
+}
+
+.lateral ul li:hover {
+    filter: brightness(80%);
+    box-shadow: rgb(74, 31, 153);
+}
+
+.rodape {
+    background-color: rgb(135, 190, 226);
+    align-self: center;
+    width: 70%;    
+    padding: 30px;
+    border-bottom-right-radius: 100% ;
+    border-bottom-left-radius: 100% ;
+    margin-top: 2%; 
+    text-align: center;   
 }
 
 
 
-/* .cabecalho {
-    grid-area: cabecalho;
-}
-
-nav {
-    grid-area: navegacao;
-}
-
-main {
-    grid-area: conteudo;
-}
-
-footer{
-    grid-area: rodape;
-}
-
-
-body {
-    background-color: rgb(153, 153, 245);
-    display: grid;
-    min-height: 100vh;
-    grid-template-columns: 300px 1fr;
-    grid-template-rows: 100px 1fr 100px;
-
-    grid-template-areas:
-        'cabecalho cabecalho'
-        'navegacao conteudo'
-        'rodape rodape';    
-}
-
-
-
-
-@media (max-width: 700px){
+@media (max-width: 750px){
     body {
         grid-template-columns: 1fr;
         grid-template-rows: 80px 80px 1fr 100px;
@@ -147,7 +144,7 @@ body {
             'conteudo'
             'rodape';
        }
-       .cabecalho {
+       .naveg {
            display: none;
        }
-} */
+} 
