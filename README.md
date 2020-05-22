@@ -1,6 +1,8 @@
 # Projeto Locovid - Grupo 8
 **Membros:** _Gabriel, Anne Caroline, Lucas José, Kátia Araujo, João Pedro Riuto_
 
+![Projeto Locovid](/video promover.mp4)
+
 * Desenvolvemos a pagina web do portal Locovid.
 Para acessa-lo, entre no link:  https://hackathon-fga-2020.github.io/Desafio-1-Grupo-8/
 
@@ -29,7 +31,7 @@ sua localidade.
   Como forma de promover e levar informação de qualidade e atualizada o Hackathon UnB-FGA
 2020 propõe aos seus participantes que desenvolvam soluções capazes de entregar aos
 habitantes: dados por regiões de forma rápida, coesa e concreta. É necessário que as equipes
-entendam que
+entendam quevideo
 as Regiões Administrativas do Distrito Federal possuem diferenças
 socioeconômicas e que o acesso a internet é diretamente proporcional a renda dos habitantes. A
 solução deve ser desenvolvida para o máximo de usuários possíveis.
