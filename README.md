@@ -4,10 +4,10 @@
 * Desenvolvemos a pagina web do portal Locovid.
 Para acessa-lo, entre no link:  https://hackathon-fga-2020.github.io/Desafio-1-Grupo-8/
 
-* Também foi feito um [Relatorio do desenvolvimento do projeto]()! Apesar do portal estar muito fora de estar completo \- nossos membros não têm formaçao tecnica para algo mais sofisticado, nem mesmo se conheciam \-, nosso pensamento e visão foram sintetizados nesse documento.
+* Também foi feito um [Relatorio do desenvolvimento do projeto](/relatorio_projeto_locovid_grupo8.pdf)! Apesar do portal estar muito fora de estar completo \- nossos membros não têm formaçao tecnica para algo mais sofisticado, nem mesmo se conheciam \-, nosso pensamento e visão foram sintetizados nesse documento.
 
-Agradecemos a oportunidade de tentar ajudar a sociedade com algo! Esperamos que nossa ideia seja vista com carinho :sunrise_over_mountains:
-Sem mais.
+Agradecemos a oportunidade de tentar ajudar a sociedade com algo! Esperamos que nossa ideia seja vista com carinho. :sunrise_over_mountains:
+ ![Projeto Locovid](/imgs/logo_github.png)
 
 ***
 ## HACKATHON UnB-FGA 2020
