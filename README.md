@@ -1,7 +1,6 @@
 # Projeto Locovid - Grupo 8
 **Membros:** _Gabriel, Anne Caroline, Lucas José, Kátia Araujo, João Pedro Riuto_
-
-![Projeto Locovid](/videopromover.mp4)
+                                   ![Projeto Locovid](/videopromover.mp4)
 
 * Desenvolvemos a pagina web do portal Locovid.
 Para acessa-lo, entre no link:  https://hackathon-fga-2020.github.io/Desafio-1-Grupo-8/
