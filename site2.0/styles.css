@@ -116,6 +116,12 @@ body {
 
 }
 
+.lateral a {
+    text-decoration: none;
+    text-align: center;
+    color:cornsilk;
+}
+
 .lateral ul li:hover {
     filter: brightness(80%);
     box-shadow: rgb(74, 31, 153);
@@ -131,6 +137,22 @@ body {
     margin-top: 2%; 
     text-align: center;   
 }
+
+#mapa {
+    box-shadow: 6px 6px 3px rgba(109, 87, 87, 0.61);
+    border-radius: 10%;
+    margin-left: 5%;
+    margin-top: 11%;
+    height: 70vh;
+    width: 90%;
+}
+
+.mapaText {
+    padding-top: 5%;
+    text-align: center;
+    font-size: 100%;
+}
+
 
 
 
