@@ -135,7 +135,12 @@ body {
     border-bottom-right-radius: 100% ;
     border-bottom-left-radius: 100% ;
     margin-top: 2%; 
-    text-align: center;   
+    text-align: center;
+       
+}
+
+.rodape a {
+    text-decoration: none;
 }
 
 #mapa {
@@ -170,4 +175,3 @@ body {
            display: none;
        }
 } 
-
